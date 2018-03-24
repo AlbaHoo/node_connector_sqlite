@@ -1,0 +1,22 @@
+{
+  "name": "node_sqlite",
+  "version": "1.0.0",
+  "description": "a node with express api interface for data transfer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "sqlite"
+  ],
+  "author": "alba",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
